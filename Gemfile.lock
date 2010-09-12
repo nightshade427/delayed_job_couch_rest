@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/collectiveidea/delayed_job.git
-  revision: 7232cf1f548aa7913a539a9bd1fd321d80d25706
+  revision: d04dd79f6fb01e78ae060386df64f4c212acb1a8
   specs:
     delayed_job (2.1.0.pre2)
       activesupport (~> 3.0)
@@ -53,7 +53,7 @@ GEM
       abstract (>= 1.0.0)
     i18n (0.4.1)
     json (1.4.6)
-    mail (2.2.5)
+    mail (2.2.6)
       activesupport (>= 2.3.6)
       mime-types
       treetop (>= 1.4.5)
